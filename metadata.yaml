@@ -1,0 +1,25 @@
+_repo: Oscar-Wilde-His-Life-and-Confessions-Volume-1_3662
+creator:
+  author:
+    agent_name: Harris, Frank
+    alias: Harris, James Thomas
+    birthdate: 1856
+    deathdate: 1931
+    gutenberg_agent_id: '1255'
+    url: http://www.gutenberg.org/2009/agents/1255
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Harris
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Irish -- 19th century -- Biography'
+- !lcsh 'Wilde, Oscar, 1854-1900'
+- !lcc 'PR'
+title: Oscar Wilde, His Life and Confessions — Volume 1
+url: http://www.gutenberg.org/ebooks/3662
